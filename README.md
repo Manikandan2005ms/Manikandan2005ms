@@ -1,6 +1,6 @@
 <!-- Typing animation headline -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F700&width=450&center=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Manikandan+M.;Aspiring+Java+Developer;Cloud+%7C+DevOps+Enthusiast;Full-Stack+Developer+%F0%9F%9A%80;Let's+Build+Together+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F700&width=450&center=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Manikandan+M.;Aspiring+Python+Developer;Cloud+%7C+DevOps+Enthusiast;Full-Stack+Developer+%F0%9F%9A%80;Let's+Build+Together+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.E. Computer Science & Engineering 
-- 👨‍💻 Aspiring **Java Developer**, building **Full-stack** & **Cloud-based** solutions  
+- 👨‍💻 Aspiring **Python Developer**, building **Full-stack** & **Cloud-based** solutions  
 - ☁️ Exploring `AWS`, `Google Cloud`, `DevOps`, `Microservices`
 - 🧠 Passionate about solving DSA on: [LeetCode](https://leetcode.com/u/mmani786ms/)
 - 📂 Portfolio of work on: [GitHub](https://github.com/Manikandan2005ms)
