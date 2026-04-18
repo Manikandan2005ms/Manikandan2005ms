@@ -1,75 +1,101 @@
-<!-- Typing animation headline -->
+<!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F700&width=450&center=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Manikandan+M.;Aspiring+Python+Developer;Cloud+%7C+DevOps+Enthusiast;Full-Stack+Developer+%F0%9F%9A%80;Let's+Build+Together+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Manikandan+M;Aspiring+AI%2FML+Engineer+🤖;Full+Stack+Developer+🚀;Cloud+%7C+DevOps+Enthusiast+☁️;Building+Smart+Solutions+for+Future+💡" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.E. Computer Science & Engineering 
-- 👨‍💻 Aspiring **Python Developer**, building **Full-stack** & **Cloud-based** solutions  
-- ☁️ Exploring `AWS`, `Google Cloud`, `DevOps`, `Microservices`
-- 🧠 Passionate about solving DSA on: [LeetCode](https://leetcode.com/u/mmani786ms/)
-- 📂 Portfolio of work on: [GitHub](https://github.com/Manikandan2005ms)
-- 🗣 Working on: **English fluency**, **leadership**, and **presentation**
-- ⚡ Fun Fact: I love turning ☕ into 💻
+- 🎓 B.E. Computer Science & Engineering  
+- 🤖 Aspiring **AI/ML Engineer** focused on solving real-world problems  
+- 💻 Full Stack Developer with frontend + backend knowledge  
+- ☁️ Exploring **AWS, DevOps, Linux, Cloud Automation**  
+- 🧠 Passionate about **Machine Learning, Deep Learning, Python Projects**  
+- 📊 Interested in **Data Science & Intelligent Systems**  
+- 🚀 Building impactful projects for future industries  
+- 🗣 Improving **English communication, leadership & presentation skills**  
+- ⚡ Fun Fact: I turn ☕ into intelligent systems 💻  
 
 ---
 
-
-### 🚀 Tech Stack & Tools
+## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,django,react,aws,gcp,git,github,linux,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,mongodb,html,css,js,react,nodejs,django,flask,aws,gcp,linux,git,github,vscode,tensorflow" />
 </p>
-
 
 ---
 
-### 📈 LeetCode Progress
+## 🤖 AI / ML Interests
+
+- 🧠 Machine Learning  
+- 📈 Data Analytics  
+- 👁️ Computer Vision  
+- 💬 NLP (Natural Language Processing)  
+- 🤖 Automation Systems  
+- ☁️ AI + Cloud Integration  
+- 📊 Predictive Models  
+
+---
+
+## 🚀 Featured Projects
+
+- 🌱 **AI Smart Farming System**  
+- 🖐️ **Hand Gesture Virtual Mouse**  
+- 🎓 **Student Management System**  
+- 🚌 **IoT Smart Bus Tracking System**  
+- 📷 **Face Recognition Bus Pass Check**  
+- 🤖 **AI Smart Teaching Assistant**  
+
+---
+
+## 📈 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mmani786ms?theme=unicorn&font=baloo&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/mmani786ms?theme=dark&font=baloo&ext=contest" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manikandan2005ms&show_icons=true&theme=radical&hide_border=false&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikandan2005ms&theme=radical&hide_border=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikandan2005ms&layout=compact&theme=radical&langs_count=8&hide_border=false" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Manikandan2005ms&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikandan2005ms&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikandan2005ms&layout=compact&theme=tokyonight" height="170"/>
+
 </div>
 
 ---
 
-
-
-### 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:mmani786ms@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/mmani786ms/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://github.com/Manikandan2005ms"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mani2005m/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mmani786ms@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  
+  <a href="https://www.linkedin.com/in/mani2005m/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
+  <a href="https://github.com/Manikandan2005ms"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  
+  <a href="https://leetcode.com/u/mmani786ms/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🎬 Fun Coding Time
+## 🎯 2026 Goal
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDd0MG52dnc4ZGJ1OWJtcWx4N3h6MTV6N2ZpNWVkbjVwbHA2bTYwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" width="300" />
-</p>
+✨ Become a skilled **AI/ML Engineer** with strong Full Stack + Cloud expertise and build products that solve real problems.
 
 ---
 
 <p align="center">
-  <b>“Code with purpose. Deploy with pride.”</b> 💥
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
 </p>
